@@ -1,5 +1,9 @@
 ## Organic Synthesis Study Guide
 
+[https://github.com/feynmanliang/Organic-Synthesis-Study-Guide/blob/master/study-guide/study-guide.pdf?raw=true](Download Synthesis Study Guide)
+[https://github.com/feynmanliang/Organic-Synthesis-Study-Guide/blob/master/brief/brief.pdf?raw=true](Download Synthesis In Brief)
+
+
 These notes are a summary of the organic synthesis unit of the Organic Chemistry II (CHEM-231) at Amherst College for the spring 2012 term. I created these notes both to help myself and others better understand and centralize the tools available for organic synthesis.
 
 The notes are split into two files:    
