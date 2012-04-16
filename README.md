@@ -17,6 +17,6 @@ These notes cover four major areas of synthetically useful organic reactions:
 4. Carbonyl Chemistry
 
 # License
->    Copyright (c) 2012 Feynman Liang
->    Licensed under the MIT license:
->    [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+Copyright (c) 2012 Feynman Liang    
+Licensed under the MIT license:    
+[http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
